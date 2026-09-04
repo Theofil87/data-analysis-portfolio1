@@ -1,0 +1,13 @@
+date,region,category,units_sold,unit_price
+2025-01-05,North,Electronics,18,120
+2025-01-12,South,Home,25,45
+2025-01-19,East,Office,40,18
+2025-01-26,West,Electronics,12,180
+2025-02-04,North,Home,30,42
+2025-02-11,South,Electronics,15,130
+2025-02-18,East,Office,45,20
+2025-02-25,West,Home,22,50
+2025-03-03,North,Office,35,19
+2025-03-10,South,Home,28,47
+2025-03-17,East,Electronics,16,150
+2025-03-24,West,Office,38,21
