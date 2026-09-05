@@ -4,3 +4,6 @@ __pycache__/
 .venv/
 outputs/
 .ipynb_checkpoints/
+build/
+dist/
+*.egg-info/
