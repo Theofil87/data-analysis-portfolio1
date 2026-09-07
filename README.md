@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard for exploring sales data with KPIs and visualizations. Built with Python, Pandas and Plotly — ideal for demonstrating data analysis and dashboarding skills.
 
-[Live Demo](https://theofil87-data-analysis.streamlit.app) • ![Interactive Streamlit Dashboard](images/dashboard.png)
+[Live Demo](https://data-analysis-portfolio1.streamlit.app) • ![Interactive Streamlit Dashboard](images/dashboard.png)
 
 <!-- Optional badges (enable CI / coverage in your repo and replace URLs) -->
 <!--
@@ -38,7 +38,7 @@ An interactive Streamlit dashboard for exploring sales data with KPIs and visual
 - Git / GitHub
 
 ## Demo
-Try the live demo here: https://theofil87-data-analysis.streamlit.app
+Try the live demo here: https://data-analysis-portfolio1.streamlit.app
 
 ## Quick start
 
