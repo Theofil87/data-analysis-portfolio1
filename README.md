@@ -8,6 +8,10 @@ The application allows users to explore sales performance through interactive fi
 
 🔗 https://theofi187-data-analysis.streamlit.app
 
+## Dashboard Preview
+
+![Interactive Streamlit Dashboard](images/dashboard.png)
+
 ## 📌 Features
 
 - Interactive region filtering
@@ -42,3 +46,5 @@ data-analysis-portfolio/
 ├── requirements.txt       # Project dependencies
 ├── pyproject.toml         # Project configuration
 └── README.md
+
+
