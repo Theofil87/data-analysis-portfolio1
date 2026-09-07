@@ -1,40 +1,44 @@
-# Python Data Analysis Portfolio
+# 📊 Sales Data Dashboard
 
-A small, reproducible data-analysis project that explores monthly sales performance by product category and region. It is designed as a clean starting point for a professional portfolio.
+An interactive data analytics dashboard built with Python and Streamlit.
 
-## Project structure
+The application allows users to explore sales performance through interactive filters, KPI metrics, and visualizations.
+
+## 🚀 Live Demo
+
+🔗 https://theofi187-data-analysis.streamlit.app
+
+## 📌 Features
+
+- Interactive region filtering
+- Total Revenue KPI
+- Total Transactions KPI
+- Average Transaction Value KPI
+- Monthly Revenue visualization
+- Interactive sales data exploration
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- Streamlit
+- Plotly
+- Git
+- GitHub
+
+## 📂 Project Structure
 
 ```text
-.
-├── data/               # Source data (sample data included)
-├── notebooks/          # Exploratory notebooks
-├── src/                # Reusable analysis code
-└── tests/              # Automated checks
-```
-
-## Getting started
-
-1. Create and activate a virtual environment.
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the analysis:
-
-   ```bash
-   python -m src.analysis
-   ```
-
-The command writes a chart to `outputs/monthly_revenue.png` and prints summary metrics. Run checks with `pytest`.
-
-## Example questions answered
-
-- How does total revenue change month to month?
-- Which product category produces the most revenue?
-- Which region contributes the most sales?
-
-## Data
-
-`data/sample_sales.csv` is synthetic data created solely for this example. Replace it with your own documented dataset when adapting the project.
+data-analysis-portfolio/
+│
+├── app.py                 # Streamlit dashboard application
+├── src/
+│   ├── analysis.py        # Data analysis functions
+│   └── generate_data.py   # Sample data generation
+│
+├── data/                  # Dataset
+├── notebooks/             # Exploratory analysis
+├── tests/                 # Automated tests
+├── requirements.txt       # Project dependencies
+├── pyproject.toml         # Project configuration
+└── README.md
